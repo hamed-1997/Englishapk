@@ -1,0 +1,6 @@
+{
+  "name": "English+",
+  "description": "AI-Powered English Learning App for Persian-Speaking Immigrants for life, work, and study abroad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
